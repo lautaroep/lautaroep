@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lautaroep.github.io/Portfolio/](https://lautaroep.github.io/Portfolio/)
 
-- 📫 How to reach me **lautaroepastor@gmail.com**
+- 📫 How to reach me **fileslautaro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
