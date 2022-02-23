@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lautaro</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Ecommerce and Netflix Clone**
+- 🔭 I’m currently working on **TesterQA**
 
 - 🌱 I’m currently learning **Backend**
 
